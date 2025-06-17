@@ -1,25 +1,21 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No:212224240143
+# Name: SANJAI.M
 
 # AIM:
 To develop the Hospital Management System using Star UML.
 
 # Problem Statement:
-1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.Patients face difficulties in booking appointments, accessing their medical reports, and receiving timely notifications for tests or follow-ups.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Hospital staff and doctors require a centralized platform to manage patient information, schedule consultations, prescribe medications, and track treatments efficiently.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.The system should integrate pharmacy management, billing, staff management, and inventory control to improve overall hospital workflow and resource utilization.
-
-6.It must ensure secure, role-based access for doctors, nurses, administrative staff, and patients, while maintaining data confidentiality and complying with healthcare regulations.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
 UML DIAGRAMS
 
@@ -42,7 +38,7 @@ Specifying the context and requirements of a system
 
 
 
-
+![image](https://github.com/user-attachments/assets/0cc8c5c2-e9f4-45f0-b3b4-672330867496)
 
 
 
@@ -60,7 +56,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+![image](https://github.com/user-attachments/assets/c78e7d62-802d-440f-9988-e89b2c37136f)
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,7 +64,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+![image](https://github.com/user-attachments/assets/ca800897-0af1-4e30-a835-2100ed3bdf42)
 
 
 # PACKAGE DIAGRAM:
@@ -83,7 +79,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+![image](https://github.com/user-attachments/assets/e61bb63f-619c-4f5b-a032-a466e5290967)
 
 
 # ACTIVITY DIAGRAM:
@@ -98,7 +94,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
+![image](https://github.com/user-attachments/assets/b0c86e96-9eef-4f05-896c-201cc791bbf3)
 
 
 
@@ -107,6 +103,8 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+![image](https://github.com/user-attachments/assets/aacb92ea-f034-4387-8f22-263415736072)
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
@@ -120,11 +118,6 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
-
-
 # RESULT
 
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
-
